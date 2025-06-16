@@ -22,7 +22,7 @@ Ahead of the holiday **premium membership promotion**, the Superstore sought to 
 ### **Key Actions Taken**
 
 - **Data Exploration & Cleaning:** Conducted **exploratory data analysis (EDA)**, including *variable distribution plots, correlation matrix analysis*, and *data preprocessing*.
-- **Predictive Modeling:** Built **Decision Tree models (CART & C4.5)** to classify and predict customer responses.
+- **Predictive Modeling:** Built Decision Tree models (CART & C4.5) to classify and predict customer responses.
 - **Customer Profiling:** Identified behavioral and transactional patterns that correlated with positive responses.
 
 ### **Business Insights & Outcomes**
